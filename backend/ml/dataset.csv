@@ -1,0 +1,420 @@
+description,emotion
+"I feel a surge of joy seeing my friends after a long time",happy
+"My heart swells with happiness watching my favorite movie",happy
+"A warm smile spreads across my face when I help someone",happy
+"Sharing a laugh with my colleagues makes me cheerful",happy
+"Listening to my favorite song lifts my spirits",happy
+"I am thrilled by the success of my project",happy
+"A beautiful sunrise fills me with delight",happy
+"Receiving a heartfelt compliment makes me smile",happy
+"Playing with my pet makes me feel elated",happy
+"Finding a surprise gift brings me immense joy",happy
+"Walking in the park on a sunny day makes me happy",happy
+"Cooking a meal perfectly gives me satisfaction",happy
+"My heart feels light when I achieve my goals",happy
+"Helping a stranger makes me feel joyful",happy
+"Reading a good book makes me cheerful",happy
+"Spending time with family warms my heart",happy
+"Watching children play brings a smile to my face",happy
+"Receiving good news brightens my day",happy
+"Seeing flowers bloom fills me with happiness",happy
+"Hearing laughter in a crowded room makes me feel good",happy
+"My chest feels tight and I can't stop crying",sad
+"I feel sorrow when I remember lost moments",sad
+"Tears well up in my eyes thinking about yesterday's loss",sad
+"My mind is heavy with grief after the bad news",sad
+"I'm heartbroken over the recent argument",sad
+"I feel lonely even in a room full of people",sad
+"Watching a sad movie leaves me in tears",sad
+"Missing someone I love makes me feel down",sad
+"A rainy day reflects my inner sadness",sad
+"I feel hopeless when plans fall apart",sad
+"Thinking about past mistakes saddens me",sad
+"My eyes sting with tears thinking about loss",sad
+"Seeing someone suffer makes me feel sad",sad
+"The silence in the house makes me melancholic",sad
+"I feel empty when things don't go my way",sad
+"Losing a cherished item makes me feel sorrow",sad
+"Arguments with friends leave me feeling sad",sad
+"I feel down when I see injustice around me",sad
+"My heart aches when I think of departed loved ones",sad
+"Regret fills me over things I could not do",sad
+"I'm furious after being ignored repeatedly",angry
+"My blood boils when someone lies to me",angry
+"I feel enraged seeing injustice around me",angry
+"Being cut off in traffic makes me mad",angry
+"My frustration is skyrocketing because of constant delays",angry
+"A colleague taking credit for my work angers me",angry
+"Someone breaking promises makes me feel upset",angry
+"I am annoyed when rules are not followed",angry
+"Constant noise around me makes me irritable",angry
+"Being treated unfairly makes me furious",angry
+"My temper flares up when criticized unjustly",angry
+"People ignoring my advice makes me angry",angry
+"I feel aggressive when provoked repeatedly",angry
+"Seeing litter in the park makes me frustrated",angry
+"Arguments online make me upset",angry
+"My patience runs out when tasks pile up",angry
+"I feel tense when others disrespect me",angry
+"My blood pressure rises in heated arguments",angry
+"Someone unfairly judging me makes me angry",angry
+"I feel explosive when annoyed continuously",angry
+"My heart races as I walk alone in the dark",fear
+"A sudden noise makes me jump in fear",fear
+"I feel tense in an unfamiliar environment",fear
+"My palms sweat thinking about the accident",fear
+"The thought of failing makes me anxious and scared",fear
+"I feel fearful when entering a dark alley",fear
+"Suspenseful scenes in movies make me nervous",fear
+"Walking alone at night makes me uneasy",fear
+"My mind races imagining worst-case scenarios",fear
+"A scary sound startles me unexpectedly",fear
+"Seeing a shadow in the dark makes me anxious",fear
+"I feel unsafe in a deserted area",fear
+"My chest tightens thinking about danger",fear
+"I am alarmed by sudden movements nearby",fear
+"I feel panic when hearing alarming news",fear
+"My heart pounds when I hear strange noises",fear
+"I feel nervous giving a speech in public",fear
+"The sight of a threatening animal scares me",fear
+"I feel afraid when lost in a new place",fear
+"Thunderstorms make me anxious",fear
+"Watching horror movies makes my heart race",fear
+"I feel relaxed sitting by the lake with a gentle breeze",calm
+"My mind is peaceful while meditating",calm
+"Listening to soft music soothes my nerves",calm
+"I feel serene walking through a quiet forest",calm
+"Sitting by the ocean fills me with tranquility",calm
+"My breathing slows when I practice yoga",calm
+"Watching a sunset calms my mind",calm
+"Reading in a quiet room relaxes me",calm
+"Stretching gently in the morning brings calmness",calm
+"Sipping tea in silence makes me feel peaceful",calm
+"I feel content lying in a hammock under trees",calm
+"Soft rain on the window relaxes me",calm
+"A quiet walk in nature calms my thoughts",calm
+"Feeling the warmth of sunlight comforts me",calm
+"My mind feels clear while journaling",calm
+"Looking at clouds drifting slowly relaxes me",calm
+"Listening to gentle waves soothes me",calm
+"Breathing deeply makes me feel centered",calm
+"I feel balanced after a calm meditation",calm
+"Watching fish swim slowly relaxes me",calm
+"My mind is racing with deadlines and worries",stressed
+"I feel tense with too many responsibilities",stressed
+"Work pressure makes me anxious and stressed",stressed
+"My heart pounds thinking about unfinished tasks",stressed
+"Juggling multiple projects overwhelms me",stressed
+"Thinking about exams stresses me out",stressed
+"My brain feels overloaded with information",stressed
+"Deadlines approaching make me nervous",stressed
+"I feel burdened by constant demands",stressed
+"Traffic jams make me irritated and stressed",stressed
+"Financial worries are causing me stress",stressed
+"My mind won't stop thinking about problems",stressed
+"Family conflicts leave me anxious",stressed
+"Overthinking small issues stresses me out",stressed
+"I feel restless with too many thoughts",stressed
+"Work emails piling up make me anxious",stressed
+"My body feels tense from prolonged stress",stressed
+"Pressure from society makes me nervous",stressed
+"My head hurts from constant worry",stressed
+"I feel exhausted from continuous stress",stressed
+"I'm astonished by the unexpected news from my friend",surprised
+"My jaw drops seeing an incredible event",surprised
+"I feel shocked by sudden unexpected changes",surprised
+"A twist in the story leaves me amazed",surprised
+"Unexpected compliments catch me off guard",surprised
+"Seeing magic tricks astonishes me",surprised
+"I feel startled by a loud noise",surprised
+"A sudden gift surprises me",surprised
+"My eyes widen at an unforeseen event",surprised
+"A shocking announcement leaves me speechless",surprised
+"Discovering a hidden talent amazes me",surprised
+"A sudden turn of events leaves me in awe",surprised
+"My heart skips a beat due to the unexpected",surprised
+"Unforeseen obstacles catch me off guard",surprised
+"A surprise party makes me ecstatic",surprised
+"Seeing an unplanned visitor astonishes me",surprised
+"Learning an unexpected fact surprises me",surprised
+"My mood lifts after an unanticipated positive news",surprised
+"Something unexpected happens and I can't believe it",surprised
+"I feel cheerful seeing a rainbow after the rain",happy
+"Sharing my lunch with a colleague makes me smile",happy
+"Winning a small prize fills me with happiness",happy
+"Seeing a puppy play brings me joy",happy
+"A compliment from my mentor makes me proud",happy
+"Helping my friend succeed makes me happy",happy
+"Discovering a new hobby excites me",happy
+"A funny joke brightens my day",happy
+"Finding money on the street makes me smile",happy
+"A kind gesture from a stranger lifts my spirits",happy
+"Spending a day at the beach makes me happy",happy
+"Receiving a thank you note makes me feel appreciated",happy
+"Cooking my favorite meal brings me joy",happy
+"Watching a comedy show makes me laugh",happy
+"Receiving good grades makes me elated",happy
+"Decorating my home for a festival makes me cheerful",happy
+"Meeting an old friend fills me with joy",happy
+"Getting a promotion excites me",happy
+"Listening to uplifting music energizes me",happy
+"Participating in a fun game makes me happy",happy
+"A stormy night makes me feel lonely and sad",sad
+"Missing my family makes me feel sorrow",sad
+"Receiving bad news makes my heart heavy",sad
+"Seeing people suffer makes me sad",sad
+"A broken friendship leaves me heartbroken",sad
+"Losing a valuable item makes me feel sad",sad
+"Thinking about failures makes me depressed",sad
+"Watching a tragic film brings tears to my eyes",sad
+"Feeling left out at a party makes me sad",sad
+"Arguments with loved ones make me feel down",sad
+"Seeing abandoned animals makes me sad",sad
+"Hearing sad news on TV affects my mood",sad
+"Feeling rejected makes me heartbroken",sad
+"Remembering painful memories saddens me",sad
+"Rainy evenings make me feel melancholy",sad
+"Thinking about past mistakes makes me sad",sad
+"Missing someone special fills me with sorrow",sad
+"A lonely walk at night feels depressing",sad
+"Being ignored by peers makes me feel down",sad
+"Loss of a cherished item leaves me sad",sad
+"Someone cuts me off in traffic, I feel furious",angry
+"A friend betrays me, I feel enraged",angry
+"My team ignores my idea, I feel angry",angry
+"Being criticized unfairly makes me furious",angry
+"Someone takes credit for my work, I feel mad",angry
+"Noise from construction irritates me",angry
+"Receiving rude messages makes me upset",angry
+"People breaking rules annoy me",angry
+"Being treated unfairly makes me furious",angry
+"Seeing litter everywhere frustrates me",angry
+"Online trolls provoke my anger",angry
+"Someone lies to me, I feel enraged",angry
+"Traffic jams make me angry",angry
+"People being disrespectful makes me mad",angry
+"Waiting in a long line makes me irritable",angry
+"Someone interrupts me constantly, I get frustrated",angry
+"My patience runs out with repeated mistakes",angry
+"Being blamed unfairly makes me angry",angry
+"Someone cuts in line, I feel furious",angry
+"My team ignores deadlines, I feel frustrated",angry
+"A sudden loud sound startles me",fear
+"Walking alone at night scares me",fear
+"Hearing footsteps behind me makes me nervous",fear
+"Seeing a shadow in the alley frightens me",fear
+"A dark room makes me uneasy",fear
+"Watching a scary movie gives me goosebumps",fear
+"Being lost in a new place worries me",fear
+"Thunderstorms make me anxious",fear
+"Hearing strange noises alarms me",fear
+"Climbing a steep hill makes my heart race",fear
+"Encountering an aggressive dog scares me",fear
+"A sudden scream frightens me",fear
+"Seeing a snake terrifies me",fear
+"Being in a crowded space makes me nervous",fear
+"A ghost story at night makes me anxious",fear
+"Hearing unknown sounds at night scares me",fear
+"Walking on a slippery path makes me tense",fear
+"Watching a thriller movie makes me anxious",fear
+"Driving in fog makes me nervous",fear
+"A calm morning fills me with peace",calm
+"Sitting by a quiet lake relaxes me",calm
+"Listening to wind rustling in trees soothes me",calm
+"Drinking herbal tea calms my mind",calm
+"Practicing yoga makes me feel centered",calm
+"A slow walk in the garden relaxes me",calm
+"Observing birds in the park is peaceful",calm
+"Reading a book by the fireplace calms me",calm
+"Listening to classical music soothes my soul",calm
+"Watching clouds drift gives me serenity",calm
+"Stretching gently in the morning brings peace",calm
+"Journaling my thoughts clears my mind",calm
+"Feeling sunlight on my skin makes me calm",calm
+"Sitting quietly in meditation relaxes me",calm
+"Watching fish swim slowly is calming",calm
+"Taking deep breaths eases my mind",calm
+"A calm evening by the river soothes me",calm
+"Walking barefoot on grass feels peaceful",calm
+"Soft background music calms my mood",calm
+"Sipping water slowly brings me tranquility",calm
+"My workload makes me anxious and stressed",stressed
+"Thinking about upcoming deadlines stresses me",stressed
+"Too many responsibilities overwhelm me",stressed
+"My mind races with unfinished tasks",stressed
+"Work pressure makes me tense",stressed
+"Family issues make me stressed",stressed
+"Financial problems leave me worried",stressed
+"Studying for exams makes me nervous",stressed
+"Traffic makes me anxious and stressed",stressed
+"Emails piling up create stress",stressed
+"Overthinking every small detail worries me",stressed
+"Upcoming meetings make me anxious",stressed
+"Planning multiple events stresses me",stressed
+"Feeling underprepared stresses me",stressed
+"Problems with technology make me anxious",stressed
+"Heavy workload leaves me tense",stressed
+"Expectations from others pressure me",stressed
+"Thinking about past mistakes stresses me",stressed
+"Being late for appointments worries me",stressed
+"Sleep deprivation makes me feel stressed",stressed
+"Receiving shocking news surprises me",surprised
+"An unexpected gift astonishes me",surprised
+"Seeing a sudden event amazes me",surprised
+"Being praised unexpectedly surprises me",surprised
+"A sudden announcement catches me off guard",surprised
+"Learning something new surprises me",surprised
+"Finding an unexpected opportunity amazes me",surprised
+"Seeing a sudden change astonishes me",surprised
+"Being complimented unexpectedly makes me smile",surprised
+"Discovering a secret amazes me",surprised
+"Unexpected kindness surprises me",surprised
+"A surprise visit astonishes me",surprised
+"Finding something lost surprises me",surprised
+"A sudden plot twist amazes me",surprised
+"Seeing fireworks unexpectedly surprises me",surprised
+"Receiving good news unexpectedly astonishes me",surprised
+"An unplanned meeting surprises me",surprised
+"Learning a hidden talent surprises me",surprised
+"Something unanticipated happens and astonishes me",surprised
+"Meeting someone unexpectedly brightens my day",happy
+"Seeing children play happily makes me smile",happy
+"Finding a note of appreciation excites me",happy
+"Receiving unexpected help fills me with joy",happy
+"Watching a heartwarming video makes me happy",happy
+"Completing a creative project delights me",happy
+"Spending a sunny day outdoors brings happiness",happy
+"Helping a stranger in need makes me smile",happy
+"Receiving a surprise call from a friend excites me",happy
+"Listening to laughter around me makes me happy",happy
+"Thinking about good memories fills me with joy",happy
+"Being acknowledged for my effort makes me smile",happy
+"Receiving a thoughtful gift brings happiness",happy
+"Seeing a beautiful sunset cheers me up",happy
+"Spending quality time with loved ones makes me joyful",happy
+"Watching animals in the park is heartwarming",happy
+"Getting unexpected praise makes me happy",happy
+"Discovering a hidden talent in myself excites me",happy
+"Random acts of kindness inspire me happily",happy
+"Watching someone succeed makes me feel joyful",happy
+"A rainy day reminds me of lost opportunities",sad
+"Feeling isolated makes me sad",sad
+"Remembering broken promises saddens me",sad
+"Seeing people argue makes me upset",sad
+"Watching a pet die makes me feel sorrow",sad
+"Thinking about mistakes fills me with regret",sad
+"Missing an important event makes me feel sad",sad
+"A friend moving away leaves me heartbroken",sad
+"Feeling misunderstood makes me sad",sad
+"Receiving bad feedback makes me feel down",sad
+"Watching a loved one struggle makes me sad",sad
+"Remembering failures saddens me",sad
+"Feeling lonely in a crowded room makes me sad",sad
+"Watching a tragic play leaves me teary-eyed",sad
+"Remembering lost moments fills me with grief",sad
+"Feeling helpless in a situation makes me sad",sad
+"Seeing destruction makes me feel sorrow",sad
+"Thinking about unfulfilled dreams saddens me",sad
+"Losing contact with friends makes me sad",sad
+"Being left out in decisions makes me feel sad",sad
+"Someone ignores me repeatedly, I feel angry",angry
+"Being blamed for others’ mistakes makes me mad",angry
+"Being cut off in a queue irritates me",angry
+"Unfair treatment provokes my anger",angry
+"Someone disrespects my ideas, I feel furious",angry
+"Receiving rude emails makes me angry",angry
+"Being lied to enrages me",angry
+"People shouting loudly annoys me",angry
+"Seeing people cheat makes me angry",angry
+"Repeated mistakes of others frustrate me",angry
+"Traffic violations make me furious",angry
+"Being treated unfairly makes me mad",angry
+"Unkept promises make me feel angry",angry
+"Noise in the neighborhood annoys me",angry
+"Someone interrupts my work, I get frustrated",angry
+"Online arguments irritate me",angry
+"Being ignored in meetings makes me angry",angry
+"People disrespecting elders angers me",angry
+"Seeing injustice makes me furious",angry
+"Unhelpful colleagues provoke my anger",angry
+"Hearing footsteps behind me in darkness scares me",fear
+"Seeing a shadow in my room frightens me",fear
+"Unexpected loud noises make me nervous",fear
+"Walking alone on a deserted street makes me anxious",fear
+"Strangers approaching me quickly scares me",fear
+"Horror movie scenes make my heart race",fear
+"Stormy weather outside makes me uneasy",fear
+"Being in a dark elevator frightens me",fear
+"Thinking about accidents makes me scared",fear
+"Seeing a scary image startles me",fear
+"Walking on ice makes me nervous",fear
+"Strange noises in the night scare me",fear
+"Being lost in an unfamiliar place worries me",fear
+"Seeing someone fall scares me",fear
+"A sudden movement in the dark alarms me",fear
+"Climbing heights makes me anxious",fear
+"Encountering aggressive animals scares me",fear
+"Walking alone in the forest makes me nervous",fear
+"Hearing a loud scream frightens me",fear
+"Watching a thriller scene makes me anxious",fear
+"Sitting quietly in a garden makes me calm",calm
+"Listening to soft piano music relaxes me",calm
+"Observing birds in the morning is soothing",calm
+"Stretching in the morning gives me a sense of peace",calm
+"Watching the sunset brings tranquility",calm
+"Reading in a silent room makes me calm",calm
+"Drinking tea slowly helps me relax",calm
+"Feeling the breeze on my face makes me peaceful",calm
+"Watching waves on the shore calms me",calm
+"Writing in my journal relaxes me",calm
+"Meditating for a few minutes brings calmness",calm
+"Watching clouds float peacefully makes me serene",calm
+"Sitting in silence for a while relaxes me",calm
+"Listening to soft rain sounds soothes me",calm
+"Walking in nature clears my mind",calm
+"Feeling the warmth of sunlight calms me",calm
+"Slow deep breaths make me feel centered",calm
+"Observing flowers in bloom is relaxing",calm
+"Light stretching exercises calm my nerves",calm
+"Soft music in the background relaxes me",calm
+"Thinking about upcoming tasks makes me stressed",stressed
+"Deadlines approaching fill me with anxiety",stressed
+"Too many responsibilities make me tense",stressed
+"Workload piling up stresses me",stressed
+"Financial concerns make me feel nervous",stressed
+"Upcoming exams make me anxious",stressed
+"Family arguments create tension",stressed
+"Traffic delays make me worried",stressed
+"Unfinished projects stress me",stressed
+"Overthinking minor issues makes me stressed",stressed
+"Multiple meetings in a day make me anxious",stressed
+"Pressure to perform makes me nervous",stressed
+"Emails stacking up worry me",stressed
+"Technology issues increase my stress",stressed
+"Being unprepared makes me anxious",stressed
+"Heavy workload causes tension",stressed
+"Expectations from others make me stressed",stressed
+"Lack of sleep makes me anxious",stressed
+"Unexpected events make me nervous",stressed
+"Discovering a hidden surprise excites me",surprised
+"A sudden birthday party astonishes me",surprised
+"Unexpected gifts amaze me",surprised
+"Seeing a surprise event astonishes me",surprised
+"Being praised unexpectedly surprises me",surprised
+"Discovering something new excites me",surprised
+"An unforeseen opportunity amazes me",surprised
+"A sudden visit surprises me",surprised
+"Receiving news I didn't expect astonishes me",surprised
+"Finding something lost surprises me",surprised
+"I didn't expect things to turn out this way",surprised
+"A sudden realization left me stunned",surprised
+"I was taken aback by how quickly everything changed",surprised
+"An unexpected message popped up and shocked me",surprised
+"I’m amazed at how something so small can make such a big impact",surprised
+"I couldn’t believe the news I just heard",surprised
+"A sudden announcement caught me completely by surprise",surprised
+"I was startled when someone called my name unexpectedly",surprised
+"I didn’t see that outcome coming at all",surprised
+"Something unusual happened and it left me astonished",surprised
+"I discovered something new that completely surprised me",surprised
+"A random event today left me utterly shocked",surprised

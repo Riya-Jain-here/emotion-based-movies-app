@@ -1,0 +1,16 @@
+<html>
+    <head>    
+        <title>Emotion Detector</title> 
+    </head>
+    <body>
+        <form method="POST" action="{% url 'predict' %}" >
+            {% csrf_token %}
+            <textarea name="text" row="5" col="50" placeholder="Write how you feel..." ></textarea><br><br>
+            <button type="submit"> Get Recommendations</button>
+        </form>
+        <!---{%if result%}
+        <h3> {{result}}</h3>
+        {% endif %}-->
+         
+    </body>
+</html>
