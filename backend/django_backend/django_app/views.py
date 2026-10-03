@@ -52,7 +52,7 @@ def predict_view(request):
             confidence = None
 
          # Confidence threshold check
-        if confidence is not None and confidence < 0.3:
+        if confidence is not None and confidence < 0.24:
             pred = "Unknown / No clear emotion"
 
         movies = recommend(pred, k=5) if pred != "Unknown / No clear emotion" else []
@@ -98,7 +98,7 @@ def predict_api(request):
     except Exception:
         confidence = None
 
-    if confidence is not None and confidence < 0.3:
+    if confidence is not None and confidence < 0.24:
         pred = "Unknown / No clear emotion"
         movies = []
     else:
