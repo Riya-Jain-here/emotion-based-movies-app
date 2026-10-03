@@ -20,8 +20,12 @@ export default function EmotionForm({ onResult }) {
   return (
     <div className="flex flex-col items-center justify-center p-6">
      <h6 className="text-2xl md:text-2xl font-semibold text-center mt-8 mb-6">
-      Enter some text to analyze your emotion and get some movie recommendations:
+      How are you feeling today? Describe your mood and get movie recommendations:
     </h6>
+    <p className="text-sm text-gray-500 text-center mb-4">
+      Tip: For better results, describe your emotion directly, e.g. "I feel happy" or "I'm calm and relaxed."
+    </p>
+    
     <form onSubmit={handleSubmit} className="space-y-4 p-4">
      
       <TextInput value={text} onChange={setText} />
